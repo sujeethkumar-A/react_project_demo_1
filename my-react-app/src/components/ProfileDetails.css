@@ -1,0 +1,24 @@
+.profile-details {
+  padding: 20px;
+  color: #374151;
+  text-align: left;
+}
+
+.profile-details h4 {
+  margin: 8px 0;
+  color: #2563eb;
+}
+
+.profile-details p {
+  min-height: 78px;
+  margin-bottom: 16px;
+}
+
+.profile-details button {
+  padding: 8px 14px;
+  border: 0;
+  border-radius: 6px;
+  color: #ffffff;
+  background: #2563eb;
+  cursor: pointer;
+}
